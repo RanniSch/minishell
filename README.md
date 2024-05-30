@@ -2,7 +2,7 @@
 This program is about creating a simple shell. It nteracts with the user through a terminal and with that replicates the behaviour of bash terminal. <br>
 The goal of this program is, to learn a lot about processes and file descriptors. <br> <br>
 
-![minishell-01](https://github.com/RanniSch/minishell/assets/104382315/0edd627c-7eeb-4a7d-a3ca-dfbabeb0489a)
+![minishell-01](https://github.com/RanniSch/minishell/assets/104382315/0edd627c-7eeb-4a7d-a3ca-dfbabeb0489a) <br>
 
 
 ### A preview of the Mindmap for the Project
