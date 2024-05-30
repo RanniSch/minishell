@@ -1,6 +1,6 @@
 # Minishell 
 This program is about creating a simple shell. It nteracts with the user through a terminal and with that replicates the behaviour of bash terminal. <br>
-The goal of this program is, to learn a lot about processes and file descriptors. <br>
+The goal of this program is, to learn a lot about processes and file descriptors. <br> <br>
 
 
 ### A preview of the Mindmap for the Project
