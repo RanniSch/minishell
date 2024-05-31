@@ -5,6 +5,7 @@ The goal of this program is, to learn a lot about processes and file descriptors
 ## How to rum
 * In your terminal run: ```make```
 * Then type in ```./minishell``` and get creative on your shell commands ;-)
+* You can **exit** the program by typing in ```exit```
 
 ![minishell-01](https://github.com/RanniSch/minishell/assets/104382315/0edd627c-7eeb-4a7d-a3ca-dfbabeb0489a)
 
